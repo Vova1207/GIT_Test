@@ -1,3 +1,3 @@
 print('Vova')
-print(32)
+print(321,332)
 print(441)
