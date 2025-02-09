@@ -1,2 +1,1 @@
-print('Dog')
-print(12)
+print("cat")
